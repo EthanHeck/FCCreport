@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "FC Cincinnati Match Reports"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: reports.qmd
+        text: Reports
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: darkly    # Other themes: journal, flatly, yeti
+    toc: true

@@ -1,0 +1,6 @@
+---
+title: "Reports"
+editor: visual
+---
+
+- [Introduction: Why This Exists](reports/intro.qmd)
