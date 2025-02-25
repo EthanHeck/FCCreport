@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs  # Ensures GitHub Pages serves from /docs
 
 website:
   title: "FC Cincinnati Match Reports"
+  site-url: "https://orangeandbluebreakdown.github.io"  # Update with your GitHub Pages URL
   navbar:
     left:
       - href: index.qmd
