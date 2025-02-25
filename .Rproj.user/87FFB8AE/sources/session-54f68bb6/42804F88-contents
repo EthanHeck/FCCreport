@@ -4,7 +4,7 @@ project:
 
 website:
   title: "FC Cincinnati Match Reports"
-  site-url: "https://orangeandbluebreakdown.github.io"  # Update with your GitHub Pages URL
+  site-url: "https://ethanheck.github.io/FCCreport" # Update with your GitHub Pages URL
   navbar:
     left:
       - href: index.qmd
