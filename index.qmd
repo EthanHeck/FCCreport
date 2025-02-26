@@ -1,15 +1,37 @@
 ---
-title: "<div style='text-align: center;'>Orange & Blue Breakdown</div>"
 format:
   html:
     theme: lumen
     css: styles.css
 ---
 
-<div style="text-align: center; padding: 40px;">
-  <img src="logo.png" alt="FC Cincinnati Logo" width="250">
-  <p style="color: #FFFFFF; font-size: 20px; max-width: 800px; margin: auto;">
+<div class="hero-section">
+  <h1 style="text-align: center; color: #FFFFFF;">Orange & Blue Breakdown</h1>
+  <p style="text-align: center; font-size: 20px; max-width: 800px; margin: 20px auto;">
     Welcome to the ultimate FC Cincinnati analysis site, bringing you <strong>weekly match reports, data-driven insights, and tactical breakdowns</strong>.
   </p>
+</div>
+
+<div class="grid-container">
+  <div class="card">
+    <img src="images/nyrb-match.jpg" alt="NYRB Match" class="card-image">
+    <h2 class="card-title">Latest Match Report</h2>
+    <div class="card-content">
+      <p>Read our comprehensive analysis of FC Cincinnati vs New York Red Bulls, including key statistics, tactical insights, and player performances.</p>
+      <a href="reports/NYRB.html" class="btn">Read Latest Report →</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="images/rep1.jpeg" alt="Introduction" class="card-image">
+    <h2 class="card-title">Introduction</h2>
+    <div class="card-content">
+      <p>Click here to read my introduction!</p>
+      <a href="reports/intro.html" class="btn">Browse Reports →</a>
+    </div>
   </div>
 </div>
+
+<footer>
+  <p>© 2024 Orange & Blue Breakdown | Follow us on social media</p>
+</footer>

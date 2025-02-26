@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Orange & Blue Breakdown",
+    "title": "FC Cincinnati Match Reports",
     "section": "",
-    "text": "Welcome to the ultimate FC Cincinnati analysis site, bringing you weekly match reports, data-driven insights, and tactical breakdowns."
+    "text": "Orange & Blue Breakdown\n\n\nWelcome to the ultimate FC Cincinnati analysis site, bringing you weekly match reports, data-driven insights, and tactical breakdowns.\n\n\n\n\n<img src=\"images/nyrb-match.jpg\" alt=\"NYRB Match\" class=\"card-image\">\n<h2 class=\"card-title\">Latest Match Report</h2>\n<div class=\"card-content\">\n  <p>Read our comprehensive analysis of FC Cincinnati vs New York Red Bulls, including key statistics, tactical insights, and player performances.</p>\n  <a href=\"reports/NYRB.html\" class=\"btn\">Read Latest Report →</a>\n</div>\n\n\n<img src=\"images/rep1.jpeg\" alt=\"Introduction\" class=\"card-image\">\n<h2 class=\"card-title\">Introduction</h2>\n<div class=\"card-content\">\n  <p>Click here to read my introduction!</p>\n  <a href=\"reports/intro.html\" class=\"btn\">Browse Reports →</a>\n</div>\n\n\n\n\n© 2024 Orange & Blue Breakdown | Follow us on social media"
   },
   {
     "objectID": "about.html",
