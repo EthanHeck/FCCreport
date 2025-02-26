@@ -13,5 +13,11 @@
   },
   "reports/intro.qmd": {
     "intro.html": "799aa3d2"
+  },
+  "NYRB.qmd": {
+    "NYRB.html": "7db0e259"
+  },
+  "reports/NYRB.qmd": {
+    "NYRB.html": "40f753ad"
   }
 }

@@ -1,6 +1,12 @@
 ---
-title: "Reports"
-editor: visual
+title: "Match Reports"
+format:
+  html:
+    theme: lumen
+    css: styles.css
 ---
 
+# Latest Reports
+
 - [Introduction: Why This Exists](reports/intro.qmd)
+- [FC Cincinnati vs. NY Red Bulls](NYRB.qmd)

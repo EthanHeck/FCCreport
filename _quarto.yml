@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs  # Ensures GitHub Pages serves from /docs
+  output-dir: docs
 
 website:
   title: "FC Cincinnati Match Reports"
@@ -17,4 +17,5 @@ website:
 format:
   html:
     theme: darkly
+    css: styles.css  # Loads the custom CSS file
     toc: true

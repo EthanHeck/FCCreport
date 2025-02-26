@@ -1,5 +1,15 @@
 ---
-title: "Cincy report"
+title: "<div style='text-align: center;'>Orange & Blue Breakdown</div>"
+format:
+  html:
+    theme: lumen
+    css: styles.css
 ---
 
-Hello! This is the landing page for the *idk what the name is yet* where I write weekly reports on Fc Cincinatti matches! I am passionate about football and FCC, as well as coding + data science. So at the intersection of these hobbies and passions lies this project. I hope you enjoy!
+<div style="text-align: center; padding: 40px;">
+  <img src="logo.png" alt="FC Cincinnati Logo" width="250">
+  <p style="color: #FFFFFF; font-size: 20px; max-width: 800px; margin: auto;">
+    Welcome to the ultimate FC Cincinnati analysis site, bringing you <strong>weekly match reports, data-driven insights, and tactical breakdowns</strong>.
+  </p>
+  </div>
+</div>
