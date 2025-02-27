@@ -6,7 +6,28 @@ format:
     css: styles.css
 ---
 
-# Latest Reports
+```{=html}
+<div class="grid-container">
+  <div class="card">
+    <div class="card-header"></div>
+    <div class="card-body">
+      <h2 class="card-title">FC Cincinnati vs NYRB</h2>
+      <div class="card-content">
+        <p>Match Report: Opening Day</p>
+        <a href="reports/NYRB.html" class="btn">Read Report →</a>
+      </div>
+    </div>
+  </div>
 
-- [Introduction: Why This Exists](reports/intro.qmd)
-- [FC Cincinnati vs. NY Red Bulls](NYRB.qmd)
+  <div class="card">
+    <div class="card-header"></div>
+    <div class="card-body">
+      <h2 class="card-title">About Me</h2>
+      <div class="card-content">
+        <p>Who the Heck am I?</p>
+        <a href="reports/intro.html" class="btn">Read More →</a>
+      </div>
+    </div>
+  </div>
+</div>
+```

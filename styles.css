@@ -91,8 +91,8 @@ button:hover, .btn:hover, .btn-primary:hover {
 /* Grid Container */
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 30px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Reduced from 300px */
+    gap: 20px; /* Reduced gap between cards */
     padding: 20px;
     margin: 0 auto;
     max-width: 1200px;
@@ -103,40 +103,41 @@ button:hover, .btn:hover, .btn-primary:hover {
     position: relative;
     background: white;
     border: 2px solid #263B80;
-    border-radius: 10px;
+    border-radius: 8px;
     overflow: hidden;
     transition: all 0.3s ease;
-    margin-bottom: 20px;
+    margin-bottom: 15px; /* Reduced margin */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .card-header {
+    height: 60px; /* Reduced height */
     background-color: #F05323;
-    height: 100px;
     width: 100%;
     transition: background-color 0.3s ease;
 }
 
 .card-body {
-    padding: 20px;
+    padding: 15px; /* Reduced padding */
 }
 
 .card-title {
     color: #263B80;
-    font-size: 24px;
-    margin: 0 0 15px 0;
-    padding-bottom: 10px;
+    font-size: 18px; /* Reduced font size */
+    margin: 0 0 10px 0;
+    padding-bottom: 8px;
     border-bottom: 2px solid #F05323;
 }
 
 .card-content {
     color: #333;
-    padding: 0 15px 15px 15px;
+    padding: 0 10px 10px 10px; /* Reduced padding */
 }
 
 .card-content p {
-    margin-bottom: 20px;
-    line-height: 1.6;
+    font-size: 14px; /* Reduced font size */
+    margin-bottom: 15px;
+    line-height: 1.4;
 }
 
 /* Hover Effects */
@@ -176,4 +177,40 @@ footer {
     text-align: center;
     padding: 10px;
     margin-top: 40px;
+}
+
+/* Reports Page Specific Styling */
+.reports-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); /* Wider cards */
+    gap: 15px;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.reports-grid .card {
+    display: flex;
+    flex-direction: column;
+    height: 180px; /* Fixed height for rectangular shape */
+}
+
+.reports-grid .card-header {
+    height: 40px; /* Thinner header */
+}
+
+.reports-grid .card-body {
+    padding: 12px;
+    flex-grow: 1;
+}
+
+.reports-grid .card-title {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.reports-grid .card-content p {
+    font-size: 13px;
+    line-height: 1.3;
+    margin-bottom: 10px;
 }
