@@ -19,5 +19,11 @@
   },
   "reports/NYRB.qmd": {
     "NYRB.html": "40f753ad"
+  },
+  "motagua.qmd": {
+    "motagua.html": "a885d30f"
+  },
+  "reports/motagua.qmd": {
+    "motagua.html": "9957cf1a"
   }
 }

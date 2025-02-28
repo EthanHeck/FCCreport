@@ -11,10 +11,10 @@ format:
   <div class="card">
     <div class="card-header"></div>
     <div class="card-body">
-      <h2 class="card-title">FC Cincinnati vs NYRB</h2>
+      <h2 class="card-title">Match Report</h2>
       <div class="card-content">
-        <p>Match Report: Opening Day</p>
-        <a href="reports/NYRB.html" class="btn">Read Report →</a>
+        <p>Read our comprehensive analysis of FC Cincinnati vs New York Red Bulls, including key statistics and tactical insights.</p>
+        <a href="NYRB.html" class="btn">Read Report →</a>
       </div>
     </div>
   </div>
@@ -22,10 +22,21 @@ format:
   <div class="card">
     <div class="card-header"></div>
     <div class="card-body">
-      <h2 class="card-title">About Me</h2>
+      <h2 class="card-title">FC Cincinnati vs Motagua</h2>
       <div class="card-content">
-        <p>Who the Heck am I?</p>
-        <a href="reports/intro.html" class="btn">Read More →</a>
+        <p>CCL Round of 32: Leg 2</p>
+        <a href="motagua.html" class="btn">Read Report →</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-header"></div>
+    <div class="card-body">
+      <h2 class="card-title">Introduction</h2>
+      <div class="card-content">
+        <p>Learn more about Orange & Blue Breakdown and our analytical approach to FC Cincinnati coverage.</p>
+        <a href="intro.html" class="btn">Read More →</a>
       </div>
     </div>
   </div>
