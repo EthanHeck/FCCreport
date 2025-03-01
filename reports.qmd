@@ -14,7 +14,7 @@ format:
       <h2 class="card-title">Match Report</h2>
       <div class="card-content">
         <p>Read our comprehensive analysis of FC Cincinnati vs New York Red Bulls, including key statistics and tactical insights.</p>
-        <a href="NYRB.html" class="btn">Read Report →</a>
+        <a href="reports/NYRB.html" class="btn">Read Report →</a>
       </div>
     </div>
   </div>
@@ -25,7 +25,7 @@ format:
       <h2 class="card-title">FC Cincinnati vs Motagua</h2>
       <div class="card-content">
         <p>CCL Round of 32: Leg 2</p>
-        <a href="motagua.html" class="btn">Read Report →</a>
+        <a href="reports/motagua.html" class="btn">Read Report →</a>
       </div>
     </div>
   </div>
@@ -36,9 +36,10 @@ format:
       <h2 class="card-title">Introduction</h2>
       <div class="card-content">
         <p>Learn more about Orange & Blue Breakdown and our analytical approach to FC Cincinnati coverage.</p>
-        <a href="intro.html" class="btn">Read More →</a>
+        <a href="reports/intro.html" class="btn">Read More →</a>
       </div>
     </div>
   </div>
 </div>
 ```
+d
