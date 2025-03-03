@@ -1,0 +1,26 @@
+---
+title: "FC Cincinnati vs Philadelphia Union"
+format:
+  html:
+    theme: lumen
+    css: ../styles.css
+    toc: true
+    toc-depth: 3
+---
+
+# Well, that happened...
+Not sure really where to start. Going to keep this one quick as it is 10:02 PM and I have a midterm to study for. So, sadly, no in-depth graphs or analysis this time, but not sure what we could dive into that goes beyond some surface issues in this game.
+
+The first and most obvious issue is one that I don’t know that anyone (Noonan or players) can help. We have played four games in 11 days, which would put strain on any team, much less one like ours, whose backline is struggling to recover from injury with key pieces missing. Long story short, we need Miazga back ASAP, as well as Nick Hagglund. Philadelphia realized we were thin at the back with inexperienced players and targeted the backline as a way to get goals in this game, which proved to be a great plan. They struck early, and we never really recovered after that. I would make goal plots, but I know none of us Cincy fans want to look at four plots of Union goals.
+
+To add to this “lots of games in a few days” issue, we have Tigres at home Tuesday, who are no easy opponent in any situation, much less for a team still trying to gel with each other and figure out how to play without Acosta on top of all of our current injuries. Another miss for the squad is Luca, who should return soon and inject some much-needed quality depth into the team. On the Tigres game, we would have hoped that our best players could have been subbed early in this one to rest for Tuesday, but both Denkey and Evander went the full 90. Both players had a chance, with Evander converting despite it being the less ideal of the two. These two will learn to gel with each other and the team as a whole more as the season progresses.
+
+Beyond injury/fixture congestion, we just didn’t show up. This was a time when Noonan’s squad looked sort of disjointed, with no real cohesiveness in buildup play, especially in the midfield. This could, in part, be due to starting two DMs, which inhibits the team’s ability to really progress the ball. We also never really won the midfield battle in this one. Union tended to smother us when in possession, win it back in the midfield areas, and quickly break with their three-headed attack.
+
+Another low point of this match was Kubo, who can’t quite seem to find his footing this season. He seems to be struggling to make any real impact, and I am not certain what is causing this issue. Maybe the combination of a new 10 and 9 to play alongside in the attack is taking some adjustment, but I hope he returns to form soon. One positive note for me was Corey Baird, who played a few nice passes when coming on and got into some dangerous positions. He can sometimes struggle with the end product, but if he can find form and confidence, he will be a big piece for our trophy push this season.
+
+All in all, this is a game that we can and should move on from quickly. It’s only the second league game of the season, and given the additions/injuries to our squad, it’s understandable that the game went the way it did. We all would have loved to march into Noonan/Albright’s old ground and take all three points (or even one for that matter), but we just could not compete on the day. I do not think there is any real reason to panic or be concerned based on this game alone. Hopefully, we can bounce back with a solid performance against Tigres and come into our full potential as we start to get key pieces back and Evander and Denkey continue to build their partnership.
+
+To add insult to injury, United fell out of the FA Cup today on pens to Fulham. Not sure where the club is heading, but I am not sure anyone is—including the Glazers and INEOS.
+
+Anyways, let’s get a nice result Tuesday and move on from this game! ALL FOR CINCY! Thanks for reading and cheers!

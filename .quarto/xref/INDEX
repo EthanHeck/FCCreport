@@ -25,5 +25,8 @@
   },
   "reports/motagua.qmd": {
     "motagua.html": "9957cf1a"
+  },
+  "reports/union.qmd": {
+    "union.html": "67ae8794"
   }
 }
