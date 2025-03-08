@@ -28,5 +28,8 @@
   },
   "reports/union.qmd": {
     "union.html": "67ae8794"
+  },
+  "reports/tigres.qmd": {
+    "tigres.html": "b72b4375"
   }
 }

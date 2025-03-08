@@ -8,7 +8,17 @@ format:
 
 ```{=html}
 <div class="grid-container">
-  <!-- Union Report -->
+  <div class="card">
+    <div class="card-header"></div>
+    <div class="card-body">
+      <h2 class="card-title">FC Cincinnati vs Tigres UANL</h2>
+      <div class="card-content">
+        <p>CCL Round of 16: Leg 1 at TQL Stadium</p>
+        <a href="reports/Tigres.html" class="btn">Read Report →</a>
+      </div>
+    </div>
+  </div>
+
   <div class="card">
     <div class="card-header"></div>
     <div class="card-body">
@@ -23,20 +33,9 @@ format:
   <div class="card">
     <div class="card-header"></div>
     <div class="card-body">
-      <h2 class="card-title">FC Cincinnati vs Motagua</h2>
-      <div class="card-content">
-        <p>CCL Round of 32: Leg 2</p>
-        <a href="reports/motagua.html" class="btn">Read Report →</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-header"></div>
-    <div class="card-body">
       <h2 class="card-title">FC Cincinnati vs NYRB</h2>
       <div class="card-content">
-        <p>Match Report: Opening Day</p>
+        <p>MLS Game 1: Opening Day</p>
         <a href="reports/NYRB.html" class="btn">Read Report →</a>
       </div>
     </div>
@@ -45,9 +44,9 @@ format:
   <div class="card">
     <div class="card-header"></div>
     <div class="card-body">
-      <h2 class="card-title">Introduction</h2>
+      <h2 class="card-title">About This Site</h2>
       <div class="card-content">
-        <p>Learn more about Orange & Blue Breakdown and our analytical approach to FC Cincinnati coverage.</p>
+        <p>Learn more about Orange & Blue Breakdown and our analytical approach.</p>
         <a href="reports/intro.html" class="btn">Read More →</a>
       </div>
     </div>
