@@ -1,0 +1,21 @@
+---
+title: "Random Analysis"
+format:
+  html:
+    theme: lumen
+    css: styles.css
+---
+
+```{=html}
+<div class="grid-container">
+  <div class="card">
+    <div class="card-header"></div>
+    <div class="card-body">
+      <h2 class="card-title">Coming Soon</h2>
+      <div class="card-content">
+        <p>Stay tuned for analysis of other sports and topics!</p>
+      </div>
+    </div>
+  </div>
+</div>
+```

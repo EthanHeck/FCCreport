@@ -1,25 +1,21 @@
 project:
   type: website
-  output-dir: docs
-  resources:
-    - "images/*"
+  output-dir: _site
 
 website:
-  title: "FC Cincinnati Match Reports"
-  site-url: "https://ethanheck.github.io/FCCreport"
+  title: "Ethan's Analysis Hub"
   navbar:
-    logo: logo.png
     left:
       - href: index.qmd
         text: Home
       - href: reports.qmd
         text: Reports
-      - href: about.qmd
+      - href: random.qmd
+        text: Random
+      - href: reports/intro.html
         text: About
-    search: false  # This removes the search button
 
 format:
   html:
-    theme: darkly
+    theme: lumen
     css: styles.css
-    toc: true
