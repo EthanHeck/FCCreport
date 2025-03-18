@@ -11,9 +11,10 @@ format:
   <div class="card">
     <div class="card-header"></div>
     <div class="card-body">
-      <h2 class="card-title">Coming Soon</h2>
+      <h2 class="card-title">About This Site</h2>
       <div class="card-content">
-        <p>Stay tuned for analysis of other sports and topics!</p>
+        <p>Learn more about Orange & Blue Breakdown and our analytical approach.</p>
+        <a href="reports/intro.html" class="btn">Read More →</a>
       </div>
     </div>
   </div>

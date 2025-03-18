@@ -3,17 +3,15 @@ project:
   output-dir: _site
 
 website:
-  title: "Ethan's Analysis Hub"
+  title: "AmericanTalksFooty"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: reports.qmd
-        text: Reports
-      - href: random.qmd
-        text: Random
-      - href: reports/intro.html
-        text: About
+      - text: FCC Reports
+        href: reports.qmd
+      - text: Random
+        href: random.qmd
 
 format:
   html:

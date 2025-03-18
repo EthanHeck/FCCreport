@@ -1,13 +1,26 @@
 ---
-title: "Match Reports"
 format:
   html:
     theme: lumen
     css: styles.css
+title: "Match Reports"
 ---
 
 ```{=html}
 <div class="grid-container">
+  <!-- 3 Game Report Card -->
+  <div class="card">
+    <div class="card-header"></div>
+    <div class="card-body">
+      <h2 class="card-title">Toronto, Tigres, and Charlotte</h2>
+      <div class="card-content">
+        <p>Analysis of three crucial matches over two weeks</p>
+        <a href="reports/3greport.html" class="btn">Read Report →</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tigres Report -->
   <div class="card">
     <div class="card-header"></div>
     <div class="card-body">
@@ -40,16 +53,4 @@ format:
       </div>
     </div>
   </div>
-
-  <div class="card">
-    <div class="card-header"></div>
-    <div class="card-body">
-      <h2 class="card-title">About This Site</h2>
-      <div class="card-content">
-        <p>Learn more about Orange & Blue Breakdown and our analytical approach.</p>
-        <a href="reports/intro.html" class="btn">Read More →</a>
-      </div>
-    </div>
-  </div>
-</div>
 ```

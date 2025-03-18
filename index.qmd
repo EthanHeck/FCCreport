@@ -1,5 +1,5 @@
 ---
-title: "Ethan's Analysis Hub"
+title: "AmericanTalksFooty"
 format:
   html:
     theme: lumen
@@ -8,9 +8,9 @@ format:
 
 ```{=html}
 <div class="hero-section">
-  <h1 style="text-align: center; color: #FFFFFF;">Welcome to My Analysis Hub</h1>
+  <h1 style="text-align: center; color: #FFFFFF;">Welcome to My Footy Themed Blog!</h1>
   <p style="text-align: center; font-size: 20px; max-width: 800px; margin: 20px auto;">
-    Exploring sports and data through <strong>detailed analysis, visualizations, and insights</strong>.
+    I first started this site and focused souly on FC Cincinatti, a club I absolutely love. However, I decided I would also love a place to display my thoughts + analysis on things from Manchester United, Lamine Yamal's greatness, or how tactics have changed in the prem so I have moved all FCC related things to the FCC tab above!</strong>
   </p>
 </div>
 
