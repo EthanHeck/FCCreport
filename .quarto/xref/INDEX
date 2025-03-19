@@ -1,44 +1,41 @@
 {
+  "reports.qmd": {
+    "reports.html": "55f4afb3"
+  },
   "index.qmd": {
-    "index.html": "abd4aab7"
+    "index.html": "03999e1c"
   },
   "about.qmd": {
-    "about.html": "1d81b7c1"
+    "about.html": "6767fd7e"
   },
   "Untitled.qmd": {
-    "Untitled.html": "33744f6f"
-  },
-  "reports.qmd": {
-    "reports.html": "7a01951b"
-  },
-  "reports/intro.qmd": {
-    "intro.html": "799aa3d2"
+    "Untitled.html": "3179d1b6"
   },
   "NYRB.qmd": {
-    "NYRB.html": "7db0e259"
-  },
-  "reports/NYRB.qmd": {
-    "NYRB.html": "40f753ad"
-  },
-  "motagua.qmd": {
-    "motagua.html": "a885d30f"
-  },
-  "reports/motagua.qmd": {
-    "motagua.html": "9957cf1a"
-  },
-  "reports/union.qmd": {
-    "union.html": "67ae8794"
-  },
-  "reports/tigres.qmd": {
-    "tigres.html": "b72b4375"
-  },
-  "random.qmd": {
-    "random.html": "77fca5b5"
+    "NYRB.html": "f0f08d2e"
   },
   "3greport.qmd": {
-    "3greport.html": "38617aed"
+    "3greport.html": "92639c92"
+  },
+  "random.qmd": {
+    "random.html": "7579772b"
+  },
+  "reports/motagua.qmd": {
+    "motagua.html": "49323a44"
+  },
+  "reports/intro.qmd": {
+    "intro.html": "d80ed79e"
+  },
+  "reports/tigres.qmd": {
+    "tigres.html": "6a4b1230"
+  },
+  "reports/union.qmd": {
+    "union.html": "162f173f"
+  },
+  "reports/NYRB.qmd": {
+    "NYRB.html": "66fb8a56"
   },
   "reports/3greport.qmd": {
-    "3greport.html": "d59db982"
+    "3greport.html": "fa8f184e"
   }
 }
