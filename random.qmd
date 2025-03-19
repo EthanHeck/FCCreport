@@ -8,13 +8,26 @@ format:
 
 ```{=html}
 <div class="grid-container">
+  <!-- About Card -->
   <div class="card">
     <div class="card-header"></div>
     <div class="card-body">
       <h2 class="card-title">About This Site</h2>
       <div class="card-content">
-        <p>Learn more about Orange & Blue Breakdown and our analytical approach.</p>
+        <p>Learn more about my analytical approach and what to expect from both FCC and general football content.</p>
         <a href="reports/intro.html" class="btn">Read More →</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Coming Soon Card -->
+  <div class="card">
+    <div class="card-header"></div>
+    <div class="card-body">
+      <h2 class="card-title">Coming Soon</h2>
+      <div class="card-content">
+        <p>Stay tuned for analysis beyond FC Cincinnati - covering Premier League, European football, and tactical deep dives.</p>
+        <a href="#" class="btn">No posts yet →</a>
       </div>
     </div>
   </div>
